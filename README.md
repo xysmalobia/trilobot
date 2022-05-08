@@ -4,6 +4,6 @@ This script assigns functions such as remote control, camera control and facial 
 
 In parallel, the camera can be activated and streamed on a webclient using PiCamera and HTTPserver modules. Separately, Trilobot can also recognise faces using OpenCV and Flask and send email notifications if someone familiar is detected.
 
-This code is based on the Pimoroni Trilobot library.
+This code is based on the Pimoroni Trilobot library and a Tom's Hardware tutorial.
 
-Further instructions at https://blog.piandpython.net/trilobot/.
+Further instructions at https://blog.piandpython.net/adding-facial-recognition-to-trilobot/.
