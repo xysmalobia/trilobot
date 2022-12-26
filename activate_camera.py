@@ -3,7 +3,7 @@
 import io
 import logging
 import socketserver
-from picamera import PiCamera
+from picamera2 import Picamera2
 from threading import Condition
 from http import server
 
